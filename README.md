@@ -19,3 +19,5 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+
+[![mu6m's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mu6m&count_private=true&show_icons=true&title_color=fff&icon_color=007fff&text_color=9f9f9f&bg_color=0D1117)](https://github.com/mu6m)
