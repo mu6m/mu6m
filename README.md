@@ -1,6 +1,6 @@
 
 
-### Hi ! , i make webapps 👨‍💻   
+### Hi ! <br /> i make webapps 👨‍💻   
   
 
 <br/>  
@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=mu6m&&style=flat-square" align="center" />
 </div>  
 
-## tech i use  
+## tech i moslty use  
 
 ### frontend
 * nextjs 13
