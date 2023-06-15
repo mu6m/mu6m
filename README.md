@@ -1,8 +1,3 @@
-
-
-### Hi ! <br /> i make webapps 👨‍💻   
-  
-
 <br/>  
 
 ## Github Stats  
@@ -16,21 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=mu6m&&style=flat-square" align="center" />
 </div>  
 
-## tech i moslty use  
-
-### frontend
-* nextjs 13
-* nuxtjs
-* sveltekit
-
-### backend
-* golang (gin)
-* rust (actix)
-
-### databases
-* postgres
-* mongodb
-* mysql
-
+simply using nextjs 13 + postgres and golang (gin) for apis
 
 <br/>  
