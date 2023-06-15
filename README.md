@@ -11,6 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=mu6m&&style=flat-square" align="center" />
 </div>  
 
-simply using nextjs 13 + postgres and golang (gin) for apis
+using nextjs 13 + postgres and golang (gin) for apis
 
 <br/>  
