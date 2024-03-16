@@ -1,2 +1,1 @@
-# Hi 👋
-## I am A. Ledraa a full stack developer
+**Hi 👋** I am A. Ledraa a full stack developer
