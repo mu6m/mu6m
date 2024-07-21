@@ -1,1 +1,3 @@
-**Hi 👋** I'm A. Ledraa a full stack developer
+**Hi 👋** I'm Ledraa a full stack developer
+
+and i like creating scalable and reliable apps!
